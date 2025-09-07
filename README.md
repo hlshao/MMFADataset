@@ -44,7 +44,7 @@ Each entry is represented as a row in CSV/JSON:
 ## 📚 Usage Policy  
 
 - The dataset is provided for **academic research and educational purposes**.  
-- For additional details or commercial usage, please **contact the maintainer**.  
+- For cooperation research or commercial usage, please **contact the maintainer**, we could supply more additional details
 
 ---
 
